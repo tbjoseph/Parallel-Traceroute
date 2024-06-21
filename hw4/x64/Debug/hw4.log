@@ -1,0 +1,12 @@
+﻿  ICMPSocket.cpp
+C:\Users\timot\Downloads\submit_hw4\hw4\hw4\ICMPSocket.cpp(61,19): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+  (compiling source file '/ICMPSocket.cpp')
+  
+C:\Users\timot\Downloads\submit_hw4\hw4\hw4\ICMPSocket.cpp(257,19): warning C4244: '=': conversion from '_Ty' to 'DWORD', possible loss of data
+C:\Users\timot\Downloads\submit_hw4\hw4\hw4\ICMPSocket.cpp(257,19): warning C4244:         with
+C:\Users\timot\Downloads\submit_hw4\hw4\hw4\ICMPSocket.cpp(257,19): warning C4244:         [
+C:\Users\timot\Downloads\submit_hw4\hw4\hw4\ICMPSocket.cpp(257,19): warning C4244:             _Ty=double
+C:\Users\timot\Downloads\submit_hw4\hw4\hw4\ICMPSocket.cpp(257,19): warning C4244:         ]
+  (compiling source file '/ICMPSocket.cpp')
+  
+  hw4.vcxproj -> C:\Users\timot\Downloads\submit_hw4\hw4\hw4\x64\Debug\hw4.exe
